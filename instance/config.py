@@ -1,0 +1,2 @@
+MOVIE_API_KEY='19ad4cade254f328ae37f5c5ce6e463a'
+SECRET_KEY = 'qwerty'
